@@ -1,0 +1,6 @@
+Nom	Edat	Departament	Salari
+Anna	25	Vendes	30000
+Joan	30	IT	45000
+Maria	22	Màrqueting	32000
+Pere	35	IT	47000
+Laura	28	Vendes	31000
