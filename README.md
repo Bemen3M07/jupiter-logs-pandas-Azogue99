@@ -1,3 +1,7 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/ULiw8LbN)
 # Empty
 Repositori buit
+
+
+# Si surt el error de "Unable to render"
+S'ha de entrar amb el Jupyter Python Notebook, github no els esta detectant automaticament per algun motiu.
